@@ -12,6 +12,13 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.App ul {
+  list-style: none;
+  display: inline-flex;
+}
+.App ul li{
+  margin-right: 10px;
+}
 
 .App-header {
   background-color: #282c34;
